@@ -1,7 +1,7 @@
 
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hey There!, I am ঔৣMɑƝMɑԵհɑƝ •✘
+        <samp>&gt; Hey There!, I am ঔৣMɑƝMɑԵհɑƝ •✘ From Clubhouse
         </samp>
 </h3>
 
